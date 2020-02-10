@@ -1,7 +1,6 @@
 ---
 title: Presenting Pi-hole
 description: Support for presenters
-last_updated: Sun Jan 13 18:37:35 2019 UTC
 ---
 
 Word-of-mouth continues to help our project grow immensely, and so we are helping make this easier for people.
