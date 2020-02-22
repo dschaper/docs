@@ -121,4 +121,3 @@ extra_css:
 
 plugins:
   - search
-  - git-revision-date-localized
