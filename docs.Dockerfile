@@ -6,6 +6,6 @@ COPY requirements.txt /mkdocs/
 WORKDIR /mkdocs
 
 RUN apk --update upgrade \
-&& apk --no-cache --no-progress add py3-pip \
+&& apk --no-cache --no-progress add git py3-pip \
 && rm -rf /var/cache/apk/* \
 && pip3 install --user -r requirements.txt
